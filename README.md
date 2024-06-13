@@ -9,3 +9,13 @@
 ##### [Достойное решение проблемы -- 1 решение](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%961/8_1.c)
 ##### [Достойное решение проблемы -- 2 решение](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%961/8_2.c)
 ##### [Гений трейдинга](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%961/9.c)
+### Lab 2 
+##### [Дедовы тапки](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/1.c)
+##### [Паттинсон](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/2.c)
+##### [Любовь жестока](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/3.c)
+##### [Анти-Quicksort](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/4.c)
+##### [Рейтинг](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/5.c)
+##### [Нейроночка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/6.c)
+##### [Непрерывное техническое образование](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/7.c)
+##### [Грязные игры](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/8.c)
+##### [Грязные игры](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/9.c)
