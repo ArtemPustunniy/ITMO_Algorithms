@@ -18,4 +18,17 @@
 ##### [Нейроночка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/6.c)
 ##### [Непрерывное техническое образование](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/7.c)
 ##### [Грязные игры](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/8.c)
-##### [Грязные игры](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/9.c)
+##### [МММ](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%962/9.c)
+### Lab 3
+##### [Рейв и Тектоник](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/1.cpp)
+##### [Юность в Сапогах](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/2.cpp)
+##### [т.о.ч.к.а.](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/3.cpp)
+##### [Сокровища древних пирамид](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/4.cpp)
+##### [Менделеев из параллельной реальности](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/5.cpp)
+##### [Делу время - потехе час!](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/6.cpp)
+##### [Спасение земель русских](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/7.cpp)
+##### [Остаться в живых](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/8.cpp)
+##### [Давай поженимся](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/9.cpp)
+##### [Андрюша](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/10.cpp)
+##### [Скрепышовая многоножка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/11.cpp)
+
