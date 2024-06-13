@@ -31,4 +31,44 @@
 ##### [Давай поженимся](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/9.cpp)
 ##### [Андрюша](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/10.cpp)
 ##### [Скрепышовая многоножка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%963/11.cpp)
+### Lab 4
+##### [Пирамида ли?](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/1.cpp)
+##### [Реализуйте приоритетную очередь](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/2.cpp)
+##### [Шаверма патруль](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/3.cpp)
+##### [Я покорю всю Россию](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/4.cpp)
+##### [Величайший кроссовер](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/5.cpp)
+##### [Забытая советская загадка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/6.cpp)
+##### [Фиббоначиева куча]
+##### [Длинная арифметика](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/8.cpp)
+### Lab 5
+##### [Ёлки-палки 2.0](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/1.cpp)
+##### [Предки - наше всё](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/2.cpp)
+##### [И здесь k-ый максимум](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/3.cpp)
+##### [Ёлки-палки](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/4.cpp)
+##### [Три друга](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/5.cpp)
+##### [Подельник](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/6.cpp)
+##### [Всё давай. Я очень занятой](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/7.cpp)
+##### [Может ты скажешь ей, что ты не Леонтий](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/8.cpp)
+### Lab 6
+##### [Проверка сбалансированности](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/1.cpp)
+##### [Делаю я левый поворот](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/2.cpp)
+##### [Вставка в АВЛ дерево](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/3.cpp)
+##### [Очистка телефона](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/4.cpp)
+##### [Три друга 2. Возвращение](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/5.cpp)
+##### [Детектив](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%966/6.cpp)
+### Lab 7
+##### [Двоичный код Грея](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/1.cpp)
+##### [Пусть утро будет нежным!](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/2.cpp)
+##### [Облачный кризис](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/3.cpp)
+##### [Помогите Элли](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/4.cpp)
+##### [Тик-ток! Пост-Панк!](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/5.cpp)
+##### [Бедный Ваня](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/6.cpp)
+##### [Император Микки и его система защиты](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/7.cpp)
+
+
+
+
+
+
+
 
