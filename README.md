@@ -38,7 +38,7 @@
 ##### [Я покорю всю Россию](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/4.cpp)
 ##### [Величайший кроссовер](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/5.cpp)
 ##### [Забытая советская загадка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/6.cpp)
-##### [Фиббоначиева куча]
+##### Фиббоначиева куча
 ##### [Длинная арифметика](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%964/8.cpp)
 ### Lab 5
 ##### [Ёлки-палки 2.0](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%965/1.cpp)
@@ -64,11 +64,66 @@
 ##### [Тик-ток! Пост-Панк!](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/5.cpp)
 ##### [Бедный Ваня](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/6.cpp)
 ##### [Император Микки и его система защиты](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%967/7.cpp)
-
-
-
-
-
+### Lab 8
+##### [Ярмарка судьбы](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/1.cpp)
+##### [Месть Менады](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/2.cpp)
+##### [Порванное ожерелье](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/3.cpp)
+##### [Песня Сирин](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/4.cpp)
+##### [Беги и не возвращайся](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/5.cpp)
+##### [Древняя карта архипелага](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/6.cpp)
+##### [Левитирующие сады Семирамиды](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/7.cpp)
+##### [Амрита](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/8.cpp)
+##### [Гидра или не гидра, вот в чём вопрос...](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/9.cpp)
+##### [Подвал Франкенштейна](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%968/10.cpp)
+### Lab 9
+##### [Конец или Начало](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/1.cpp)
+##### [3001: Галактическая Илиада](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/2.cpp)
+##### [Если я вас больше не увижу](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/3.cpp)
+##### [You can, Ken!](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/4.cpp)
+##### [Ничто нигде и никогда](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/5.cpp)
+##### [Сокровенные желания](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/6.cpp)
+##### [Бегущий по графу 2к39 -- решение на 100](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/7_solve_na_100_cf.cpp)
+##### [Бегущий по графу 2к39 -- решение на 50](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/7_solve_na_50.cpp)
+##### [Carpe diem](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/8.cpp)
+##### [Вернись живым](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/9.cpp)
+##### [Начало или Конец](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%969/10.cpp)
+### Lab 10
+##### [АРАТАКИ РЕЙГЕН](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/1.cpp)
+##### [Истребители демонов](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/2.cpp)
+##### [Ведьмина служба доставки](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/3.cpp)
+##### [Очень яблок хочется...](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/4.cpp)
+##### [Грязные делишки](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/5.cpp)
+##### [Результат двух миллионов лет работы](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/6.cpp)
+##### [Побег Поньо](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/7.cpp)
+##### [Мугивары](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/8.cpp)
+##### [Конан из Акацуки](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/9.cpp)
+##### [А где Канеки?](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9610/10.cpp)
+### Lab 11
+##### [Борьба за сахар](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/1.cpp)
+##### [Шёпот далёких звёзд](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/2.cpp)
+##### [А можно я с тобой?](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/3.cpp)
+##### [Я не продаюсь, но...](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/4.cpp)
+##### [La Seine](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/5.cpp)
+##### [Летняя тоска Светланы](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/6.cpp)
+##### [Нighway of a lifetime](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/7.cpp)
+##### [Близкие звёзды](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9611/8_cf.cpp)
+### Lab 12
+##### [Гвоздики](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/1.cpp)
+##### [Пикник на обочине](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/2.cpp)
+##### [Что же такое множество?](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/3.cpp)
+##### [Тест](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/4.cpp)
+##### [Биба и Боба](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/5.cpp)
+##### [Три друга 3: Кукушка](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/6.cpp)
+##### [Катин лес](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9612/7.cpp)
+### Lab 13
+##### [1984](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/1.cpp)
+##### [Хогвартс](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/2.cpp)
+##### [Лиана Клубина](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/3.cpp)
+##### In My DNA - задача с cf
+##### [Junior-библиотекарь](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/5.cpp)
+##### [Секретная служба](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/6.cpp)
+##### [Покер](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/7.cpp)
+##### [Раскраска](https://github.com/ArtemPustunniy/ITMO_Algorithms/blob/main/lab%20%E2%84%9613/8.cpp)
 
 
 
